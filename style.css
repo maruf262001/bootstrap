@@ -1,0 +1,76 @@
+body{
+    background: url(./assets/images/bg.png)center;
+}
+.topbar{
+    background: rgb(137, 16, 148);
+    height: 30px;
+    color: aliceblue;
+    font-size: 14px;
+    line-height: 30px;
+}
+.cont{
+    width: 996px;
+    margin: 0 auto;
+}
+.topbar_right p{
+display: inline-block;
+border-right: 1px solid wheat;
+padding-right: 10px;
+margin-right: 10px;
+
+    
+}
+.topbar_right a{
+    text-decoration: none;
+    color: aliceblue;
+}
+/* header part end  */
+/* logo part satrt */
+.logo{
+    background: rgb(6, 203, 218);
+    height: 110px;
+    
+    
+}
+.logo_left{
+    line-height: 110px;
+
+}
+.logo_search{
+    padding-top: 54px;
+
+}
+.logo_search input{
+    width: 60%;
+}
+.main-menu{
+    border-right:1px solid rgb(1, 2, 2) ;
+}
+.main-menu a:hover{
+
+    background: rgb(53, 168, 149);
+    color: black;
+}
+.banner img{
+    border: 3px solid red;
+    padding: 10px;
+}
+.slider{
+    margin: 20px 0;
+}
+.list h5{
+    color: rgb(165, 31, 228);
+    font-size: 15px;
+
+}
+.list ul{
+    list-style: none;
+}
+.list ul li a{
+    text-decoration: none;
+    border-bottom: 1px solid green;
+    color: green;
+    padding-bottom:5px;
+  
+
+}
